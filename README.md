@@ -5,7 +5,7 @@ Case study based on Sales dataset. The objective is to help Sales manager to get
 ## Screenshots
 
 ![Models](/screenshots/models.png)
-Models
+<br>Models
 
 ![Home](/screenshots/dashboard.png)
 Main Page
